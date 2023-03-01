@@ -1,0 +1,9 @@
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\bin\Debug\azimuth calculator.exe.config
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\obj\Debug\azimuth_calculator.Form1.resources
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\obj\Debug\azimuth_calculator.Properties.Resources.resources
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\obj\Debug\azimuth calculator.csproj.GenerateResource.Cache
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\bin\Debug\azimuth calculator.exe
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\bin\Debug\azimuth calculator.pdb
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\obj\Debug\azimuth calculator.exe
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\obj\Debug\azimuth calculator.pdb
+H:\saeideh\azimuth\azimuth calculator\azimuth calculator\obj\Debug\azimuth calculator.csprojResolveAssemblyReference.cache
